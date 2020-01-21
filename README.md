@@ -1,2 +1,2 @@
-# top-questions-nodes
+# top-questions-Javascript
 Top 20 Algorithm
